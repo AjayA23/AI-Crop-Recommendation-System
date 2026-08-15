@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 streamlit
 streamlit-autorefresh
 pandas
@@ -7,12 +6,3 @@ scikit-learn
 joblib
 requests
 plotly
-=======
-streamlit
-streamlit-autorefresh
-pandas
-numpy
-scikit-learn
-joblib
-requests
->>>>>>> 443212299466bb189c153eb7455166ec17e7417c
